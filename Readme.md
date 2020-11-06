@@ -4,6 +4,6 @@ Ceci est un projet étudiant qui à pour but de crée un jeu avec les régles de
 
 Ce projet à été réaliser par PARROD Arthur et ANQUETIN Romain
 
-Pour compiler le jeu il suffit d'éxecuter les commandes : - g++ Batisseur.cpp Joueur.cpp JeuTP.cpp Partie.cpp -o santorini \n
-							  - ./santorini \n
-							  - Le jeu utilise des commandes spéciale pour la console linux \n
+Pour compiler le jeu il suffit d'éxecuter les commandes : - g++ Batisseur.cpp Joueur.cpp JeuTP.cpp Partie.cpp -o santorini &nbsp;
+							  - ./santorini &nbsp;
+							  - Le jeu utilise des commandes spéciale pour la console linux &nbsp;
